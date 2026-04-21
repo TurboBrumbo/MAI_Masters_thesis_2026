@@ -32,17 +32,28 @@
 ## Структура проекта
 
 repo/
+
 ├── app.py # основной файл веб-приложения на streamlit
+
 ├── requirements.txt # зависимости
+
 ├── README.md # этот файл
+
 ├── src/ # исходные модули
+
 │ ├── data_generator.py
+
 │ ├── preprocessing.py
+
 │ ├── clustering.py
+
 │ ├── ml_models.py
+
 │ ├── shap_analysis.py
+
 │ └── mcdm.py
-└── data/ # дополнительные данные при необходимости
+
+└── data/ # дополнительные данные
 
 ---
 
