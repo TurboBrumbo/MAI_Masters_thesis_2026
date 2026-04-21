@@ -1,0 +1,32 @@
+# Core scientific and data processing
+numpy==1.24.3
+pandas==2.0.3
+scipy==1.10.1
+
+# Machine Learning and preprocessing
+scikit-learn==1.3.0
+xgboost==1.7.6
+
+# Clustering
+hdbscan==0.8.33
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Explainable AI
+shap==0.42.1
+
+# Multi-criteria decision making
+pymcdm==1.1.0
+
+# Web interface
+streamlit==1.25.0
+
+# Web scraping (optional, for data acquisition)
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Utilities
+joblib==1.3.1
